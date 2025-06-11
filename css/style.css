@@ -1,0 +1,79 @@
+body {
+    background-color: #5d6d7e;
+
+}
+
+/* Sección header*/
+.header {
+    width: 930px;
+    padding: 10px;
+    margin: 50 auto;
+    background-color: white;
+    margin-bottom: .8em;
+}
+
+/* Sección main*/
+.main {
+    width: 930px;
+    padding: 10px;
+    margin: 40 auto;
+    background-color: white;
+    margin-bottom: .8em;
+}
+
+.main_table_pantalla {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #839192;
+    width: 80%;
+    height: 5%;
+}
+
+.main_table_uno {
+    margin-left: auto;
+    margin-right: auto;
+    /* Optional: Set a width if needed */
+    width: 60%;
+}
+
+.main_table_dos {
+    margin-left: auto;
+    margin-right: auto;
+    /* Optional: Set a width if needed */
+    width: 80%;
+}
+
+.main_table_img {
+    width: 30px;
+    height: 30px;
+}
+.main_table_img_numeracion {
+    width: 20px;
+    height: 20px;
+}
+
+/* Sección formulario*/
+.formulario {
+    width: 930px;
+    padding: 1px;
+    margin: 30 auto;
+    background-color: white;
+    margin-bottom: .8em;
+}
+
+
+.formulario_table {
+    margin-left: auto;
+  margin-right: auto;
+  /* Optional: Set a width if needed */
+  width: 60%;
+}
+
+/* Sección footer*/
+.footer {
+    width: 930px;
+    padding: 1px;
+    margin: 30 auto;
+    background-color: white;
+    margin-bottom: .8em;
+}
